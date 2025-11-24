@@ -36,7 +36,7 @@ Each event contains:
 
 Rails automatically attaches timestamps, source location, and context so developers only need to provide a name and payload.
 
-### Why structured events?
+### Why Structured Events?
 
 Rails already emits unstructured logs. They are ideal for development but become difficult and expensive to use in production:
 
