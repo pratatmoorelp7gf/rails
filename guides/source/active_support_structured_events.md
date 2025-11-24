@@ -95,7 +95,7 @@ For details on object payloads and automatic key normalization, see:
 
 * **[Event Objects][]**
 
-### Debug events
+### Debug Events
 
 Debug events are emitted only when debug mode is enabled:
 
